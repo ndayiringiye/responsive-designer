@@ -8,10 +8,10 @@ export default {
     extend: {
       screens: {
         "thin":"260px",
-        "iphone": "400px", // Smallest larger device
+        "iphone": "400px",
         "tablet": "640px", 
-        "sm": "480px", // Standard small device breakpoint
-        "md": "768px", // Standard medium device
+        "sm": "480px", 
+        "md": "768px", 
       },
     },
   },
